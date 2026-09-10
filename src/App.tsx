@@ -341,7 +341,7 @@ function App() {
             <div id="showreel" className="max-w-5xl mx-auto rounded-2xl overflow-hidden"
                  style={{ boxShadow: '0 20px 60px rgba(0,0,0,0.2)' }}>
               <VideoThumbnail
-                src="https://cdn.jsdelivr.net/gh/Aamirnaqvi-mal/Videos@main/Portfolio/long/1.mp4"
+                src="https://cdn.jsdelivr.net/gh/Aamirnaqvi-mal/Videos@main/Portfolio/long/2,5,6,8,9/1.mp4"
                 title="SHOW REEL 2026"
                 isShowreel={true}
                 thumbnailIndex={1}
